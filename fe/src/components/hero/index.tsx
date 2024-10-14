@@ -21,7 +21,7 @@ export function Hero() {
                     <div className="col-lg-7 mb-5">
                         <div className="hero-text">
                             <span>Ayo Ufuoma Ighorodge</span>
-                            <h2>The Heartbeat of Our Family,<br /> Forever Cherished.</h2>
+                            <h2> Celebrating an Icon:<br /> <small>Honoring Her Strength, Wisdom, and Joy</small></h2>
                             <button onClick={handleShow} className="primary-btn">Leave A Message For Mama</button>
                         </div>
                         <Modal show={show} handleClose={handleClose}>
