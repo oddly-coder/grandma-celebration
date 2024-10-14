@@ -1,5 +1,6 @@
 import { grandma } from "../assets";
 
+
 export function Biography() {
     return (
         <>
